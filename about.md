@@ -13,3 +13,5 @@ permalink: /about/
 [Markdown](https://zh.wikipedia.org/wiki/Markdown) ：让用户从格式中解放出来，专注于网页的内容。
 
 [jekyll](http://jekyllrb.com/) ：轻松实现Markdown功能。
+
+[jekyll theme](http://jekyllthemes.org/) ：很多Jekyll的模板。
