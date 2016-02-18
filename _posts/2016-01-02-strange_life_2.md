@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2016读书笔记之《奇特的一生》part one"
+title:  "2016读书笔记之《奇特的一生》part two"
 date:   2016-01-02 21:46:11 +0300
 categories: blog
 ---
