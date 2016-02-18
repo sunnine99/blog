@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+这个网页是利用Jekyll技术建立起来的，好处是只需要关注内容即可，发布的文章可以在主页上自动更新，不用关注网站的架构。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+一些有意思的工具：
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[atom](https://atom.io) ：一个很强大的文字编辑器，似乎可以取代vi来编写代码和写文章。
+
+[Markdown](https://zh.wikipedia.org/wiki/Markdown) ：让用户从格式中解放出来，专注于网页的内容。
+
+[jekyll](http://jekyllrb.com/) ：轻松实现Markdown功能。
