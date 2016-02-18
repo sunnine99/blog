@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "关于独立思考"
-date:   2016-11-10 21:46:11 +0300
+date:   2015-11-10 21:46:11 +0300
 categories: blog
 ---
 Tuesday, November 10, 2015 11:39 AM
