@@ -1,0 +1,2 @@
+# blog
+set up blog
