@@ -10,7 +10,7 @@ permalink: /about/
 
 [atom](https://atom.io) ：一个很强大的文字编辑器，似乎可以取代vi来编写代码和写文章。
 
-[Markdown](https://zh.wikipedia.org/wiki/Markdown) ：让用户从格式中解放出来，专注于网页的内容。
+[Markdown](http://daringfireball.net/projects/markdown/) ：让用户从格式中解放出来，专注于网页的内容。
 
 [jekyll](http://jekyllrb.com/) ：轻松实现Markdown功能。
 
