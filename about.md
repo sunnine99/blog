@@ -12,7 +12,7 @@ permalink: /about/
 
 [Sublime text](https://www.sublimetext.com)：一个似乎更强大的文字编辑器，支持代码自动补全？还没用过，见很多人推荐，先记下来。要收钱，70刀一个license。
 
-[Markdown](http://daringfireball.net/projects/markdown/) ：让用户从格式中解放出来，专注于网页的内容。自己写了一个[最基本用法](https://sunnine99.github.io/blog//blog/2016/02/20/test.html)。
+[Markdown](http://daringfireball.net/projects/markdown/) ：让用户从格式中解放出来，专注于网页的内容。自己写了一个[最基本用法](../../../2016/02/20/post.html)。
 
 [jekyll](http://jekyllrb.com/) ：轻松实现Markdown功能。
 
