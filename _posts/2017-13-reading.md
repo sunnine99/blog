@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2016 WK12 reading log"
+title:  "2017读书笔记《》"
 date:    +0300
 categories: blog
 ---
