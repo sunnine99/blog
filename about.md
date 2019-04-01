@@ -9,7 +9,9 @@ permalink: /about/
 一些有意思的工具：
 
 [atom](https://atom.io) ：一个很强大的文字编辑器，似乎可以取代vi来编写代码和写文章。
+
 附1：[官方手册中文版](https://atom-china.org/t/guan-fang-shou-ce-atom-ji-chu-shi-yong/62)
+
 附2：[atom学习笔记](../..//blog/2016/02/22/post.html)
 
 [Sublime text](https://www.sublimetext.com)：一个似乎更强大的文字编辑器，支持代码自动补全？还没用过，见很多人推荐，先记下来。要收钱，70刀一个license。
